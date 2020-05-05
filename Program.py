@@ -1,1 +1,7 @@
-print("hello world")
+print("Vad är ditt namn?")
+Namn = input("")
+print("hej", Namn, "och välkommen till mitt program")
+print("hur gammal är du?")
+age = int(input(""))
+print("du är", age, "år nu")
+print("om 20 år är du ", age + 20)
